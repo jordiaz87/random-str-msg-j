@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-j",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordiaz87/random-str-msg-j.git"
+  },
+  "keywords": [],
+  "author": "Jorge Diaz <jorjorf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordiaz87/random-str-msg-j/issues"
+  },
+  "homepage": "https://github.com/jordiaz87/random-str-msg-j#readme",
+  "bin": {
+    "random-str-msg-j": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
